@@ -89,13 +89,13 @@
 	  background-position:0 35px;
 	  
 	}
-	
+/*	
 	#page .header .footer .body #sidebar ul.navigation li.last{
 	  background-image:url('../images/border-dashed.gif');  
 	  background-repeat:repeat-x;
 	  background-position:bottom;
 	}  
-	
+*/	
 	#page .header .footer .body #sidebar ul.navigation li a{
 	  width:214px;
 	   height:40px;
@@ -142,7 +142,7 @@
 	
 	
 	
-	 
+/*	 
 	  #page .header .footer .body #sidebar .connect{
 	    background-image:url('../images/bg-social-sites.jpg');  
 	    background-repeat:no-repeat;
@@ -158,7 +158,7 @@
 		  margin: 10px 10px 0 20px;
 		}
 		
-	#page .header .footer .body #sidebar .connect a.facebook{
+/*	#page .header .footer .body #sidebar .connect a.facebook{
 		background-image:url('../images/sprite.gif');  
 	    background-repeat:no-repeat;
 		background-position: 0 0; 
@@ -180,7 +180,7 @@
 		width: 32px; 
 		height: 26px;
 	}
-	  
+*/	  
 		
 	
 	#page .header .footer .body #sidebar .footenote{
